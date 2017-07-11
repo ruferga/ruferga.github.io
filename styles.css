@@ -1,0 +1,187 @@
+body {
+    font-family: 'Montserrat', serif;
+    font-size: 20px;
+}
+
+.header h1 {
+    text-align: center;
+    color: white;
+}
+
+.header-secondary {
+    text-align: left;
+    background-color: #0f0e0b;
+    border-bottom: #42ab9e;
+}
+
+.skills {
+    text-align: center;
+    color: white;
+}
+
+.navbar {
+    background-color: black;
+    height: 50px;
+}
+
+a.navbar-brand {
+    font-size: 30px !important;
+    color: #42ab9e !important;
+    font: 'Tangerine' !important;
+}
+
+a.nav-link {
+    color: #42ab9e !important;
+    font-size: 15px !important;
+    
+}
+
+footer{
+    background-image: url('img/plumas.jpg');
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 100%;
+}
+
+#contactForm label{
+    color: white;
+    font-size: 20px;
+}
+
+#contact h2{
+    color: #42ab9e !important;
+}
+
+#contact h1{
+    color:#42ab9e !important;
+}    
+
+#contact button{
+    background-color: black;
+    color: #42ab9e;
+    border: none;
+}
+
+
+footer h3{
+    color: white;
+    font-size: 25px;
+}
+
+footer h4{
+    color: white;
+    font-size: 20px;
+}
+
+footer p{
+    color: white;
+    font-size:15px;
+}
+
+footer i.fa{
+    color: white;
+}
+
+.header-secondary i.fa  {
+    color: #42ab9e !important;    
+}
+
+nav.header-secondary{
+    height: 25px;
+}    
+
+#maincontent{
+    width: 100%;
+    height: 550px;
+    padding: 20px;
+    background-image: url('img/mermaid.jpg');
+    font-size: 30px;
+}  
+
+#maincontent h1{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    font-size: 60px;
+}  
+
+#about {
+    background-color: black;
+    width: 100%;
+    height: 650px;
+    padding-top: 25px;
+}
+
+#about p{
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+#about h1{
+    color: #42ab9e !important;
+}
+
+.name{
+    padding: 20px;
+}
+
+.thumbnail{
+    padding: 15px;
+    width: 100%;
+    height: 100%;
+    border-radius: 25%;
+}
+
+#contact{
+    padding: 20px;
+    background-color:black;
+}
+#contact h1{
+    color: white;
+}
+
+#portfolio h1{
+text-align: center;
+color:white;
+}
+
+#portfolio {
+    padding-top: 5px;
+    background-image: url('img/coquita.jpg');
+}
+#portfolio2 {
+    background-image: url('img/coquita.jpg');
+}
+#portfolio3 {
+    background-image: url('img/coquita.jpg');
+}
+hr.star-light, hr.star-primary{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    max-width: 250px;
+}
+
+a.btn-social.btn-outline{
+     color:white;
+     border-color: solid white;
+ }
+
+ .profile{
+     border-radius: 40%;
+     padding-top: 60px;
+ }
+
+ ul.navbar-nav li.page-scroll.active a.nav-link{
+     font-size:auto !important;
+     padding: 30 10 30 10px !important;
+ }
+
+ a.btn.btn-primary{
+     background-color: black;
+     border: none;
+ }
+
+ #message.form-control{
+     height: 100px;
+ }
