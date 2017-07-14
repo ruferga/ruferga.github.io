@@ -2,7 +2,14 @@ $("a.navbar-brand").css("color", "white");
 $("ul.navbar-nav li.page-scroll a.nav-link").css("color", "white");
 $("ul.navbar-nav li.page-scroll.active a.nav-link").css('color', 'white');
 $("a.navbar-brand").css("size", "30px");
+//$('div.modal-content button.btn.btn-default').click(function(){$('div.modal-backdrop.fade.show').toggle();});
+$('div.modal-content button.btn.btn-default').click(function(){
+    $('body.modal-open div.modal-backdrop').toggle();
+    $('div.modal-body').toggle();
+    $('div.#potfolioModal1.portfolio-modal.modal.fade.show').hide();
+});
 
+//$('div.modal-content button.btn.btn-default').click(function(){$('div.portfolio-modal.modal.fade').toggle();});
 
 //Freelancer Theme JavaScript
 

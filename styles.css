@@ -1,5 +1,4 @@
 body {
-    font-family: 'Montserrat', serif;
     font-size: 20px;
 }
 
@@ -114,13 +113,18 @@ nav.header-secondary{
 #about p{
     color: white;
     font-size: 20px;
-    padding-top: 30px;
+    padding-top: 15px;
     font-weight: 500;
 }
 
 #about h1{
     color: #42ab9e !important;
 }
+
+#about h4{
+    color: #42ab9e !important;
+}
+
 
 .name{
     padding: 20px;
@@ -185,3 +189,7 @@ a.btn-social.btn-outline{
  #message.form-control{
      height: 100px;
  }
+
+ body.modal-open div.modal-backdrop { 
+    z-index: 0; 
+}
