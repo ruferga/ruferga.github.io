@@ -7,6 +7,7 @@ $('div.modal-content button.btn.btn-default').click(function(){
     $('body.modal-open div.modal-backdrop').toggle();
     $('div.modal-body').toggle();
     $('div.#potfolioModal1.portfolio-modal.modal.fade.show').hide();
+    $(this).appendTo("body");
 });
 
 //$('div.modal-content button.btn.btn-default').click(function(){$('div.portfolio-modal.modal.fade').toggle();});
