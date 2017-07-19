@@ -112,7 +112,7 @@ nav.header-secondary{
 
 #about p{
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     padding-top: 60px;
     font-weight: 500;
 }
@@ -156,6 +156,12 @@ color:white;
 }
 #portfolio2 {
     background-image: url('img/coquita.jpg');
+    height:350px;
+
+}
+
+#portfolio2 a {
+    color: white;
 }
 #portfolio3 {
     background-image: url('img/coquita.jpg');
