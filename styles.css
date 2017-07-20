@@ -157,7 +157,12 @@ color:white;
 #portfolio2 {
     background-image: url('img/coquita.jpg');
     height:450px;
+    padding-bottom: 30px;
 
+}
+
+#portfolio2 div.scroll-top.page-scroll{
+    padding-top: 75px;
 }
 
 #portfolio2 a {
