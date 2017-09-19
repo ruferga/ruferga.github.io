@@ -112,7 +112,7 @@ nav.header-secondary{
 
 #about p{
     color: white;
-    font-size: 20px;
+    font-size: 14px;
     padding-top: 60px;
     font-weight: 500;
 }
@@ -148,7 +148,7 @@ nav.header-secondary{
 
 #portfolio h1{
 text-align: center;
-color:white;
+color:white !important;
 }
 
 #portfolio {
