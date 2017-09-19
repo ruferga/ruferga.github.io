@@ -91,7 +91,7 @@ nav.header-secondary{
 
 #maincontent{
     width: 100%;
-    height: 550px;
+    height: 700px;
     padding: 20px;
     background-image: url('img/mermaid.jpg');
     font-size: 30px;
@@ -106,7 +106,7 @@ nav.header-secondary{
 #about {
     background-color: black;
     width: 100%;
-    height: 650px;
+    height: 850px;
     padding-top: 25px;
 }
 
@@ -141,6 +141,7 @@ nav.header-secondary{
     margin-top: 0px;
     padding: 30px;
     background-color:black;
+    height: 800px;
 }
 #contact h1{
     color: white;
