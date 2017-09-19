@@ -138,7 +138,8 @@ nav.header-secondary{
 }
 
 #contact{
-    padding: 20px;
+    margin-top: 0px;
+    padding: 30px;
     background-color:black;
 }
 #contact h1{
@@ -154,10 +155,36 @@ color:white;
     padding-top: 5px;
     background-image: url('img/coquita.jpg');
 }
+
 #portfolio2 {
+    height:350px;
+    padding-bottom: 70px;
+
+}
+
+#portfolio3 {
+    height:370px;
+    padding-bottom: 70px;
+}
+
+div#portfolio2.container-fluid.text-center{
     background-image: url('img/coquita.jpg');
-    height:450px;
+    padding-bottom: 10px;
+}
+
+div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
+    background-image: url('img/coquita.jpg');
     padding-bottom: 30px;
+}
+
+div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
+    background-image: url('img/coquita.jpg');
+    padding-bottom: 30px;
+}
+
+div#portfolio3.container-fluid.text-center{
+    background-image: url('img/coquita.jpg');
+    padding-bottom: 10px;
 
 }
 
@@ -168,9 +195,11 @@ color:white;
 #portfolio2 a {
     color: white;
 }
-#portfolio3 {
-    background-image: url('img/coquita.jpg');
+
+#portfolio3 a {
+    color: white;
 }
+
 hr.star-light, hr.star-primary{
     margin-bottom: 0px;
     margin-top: 0px;
