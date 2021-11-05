@@ -239,3 +239,11 @@ a.btn-social.btn-outline{
  body.modal-open div.modal-backdrop { 
     z-index: 0; 
 }
+
+document.getElementById("linkedin").onclick = function () {
+    location.href = "index.html";
+}
+
+document.getElementById("github").onclick = function () {
+    location.href = "index.html";
+}
