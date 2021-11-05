@@ -12,13 +12,6 @@ $('div.modal-content button.btn.btn-default').click(function(){
 
 //$('div.modal-content button.btn.btn-default').click(function(){$('div.portfolio-modal.modal.fade').toggle();});
 
-document.getElementById("linkedin").onclick = function () {
-    location.href = "index.html";
-}
-
-document.getElementById("github").onclick = function () {
-    location.href = "index.html";
-}
 //Freelancer Theme JavaScript
 
 (function($) {
