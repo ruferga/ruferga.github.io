@@ -7,6 +7,11 @@ body {
     color: white;
 }
 
+.header h2 {
+    text-align: center;
+    color: white;
+}
+
 .header-secondary {
     text-align: left;
     background-color: #0f0e0b;
