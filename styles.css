@@ -231,6 +231,10 @@ div#portfolio3.container-fluid.text-center{
   height: 100%;
 }
 
+#carousel {
+  padding: 30px;
+}
+
 hr.star-light, hr.star-primary{
     margin-bottom: 0px;
     margin-top: 0px;
