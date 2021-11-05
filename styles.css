@@ -163,13 +163,11 @@ color:white !important;
 }
 
 #portfolio2 {
-    height:350px;
     padding-bottom: 70px;
 
 }
 
 #portfolio3 {
-    height:370px;
     padding-bottom: 70px;
 }
 
@@ -189,9 +187,9 @@ div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
 }
 
 div#portfolio3.container-fluid.text-center{
+    
     background-image: url('img/coquita.jpg');
     padding-bottom: 10px;
-
 }
 
 #portfolio2 div.scroll-top.page-scroll{
