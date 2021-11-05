@@ -219,9 +219,9 @@ div#portfolio3.container-fluid.text-center{
 #clients3 {
     padding-bottom: 70px;
 }
+
 .carousel-inner > .item > img {
-  width:320px;
-  height:188px;
+  width:100%;
 }
 
 hr.star-light, hr.star-primary{
