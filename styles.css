@@ -222,6 +222,7 @@ div#portfolio3.container-fluid.text-center{
 
 .carousel-inner > .item > img {
   width:100%;
+  height: 100%;
 }
 
 hr.star-light, hr.star-primary{
