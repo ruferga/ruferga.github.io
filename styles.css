@@ -211,6 +211,19 @@ div#portfolio3.container-fluid.text-center{
         color: white;
 }
 
+#clients2 {
+    padding-bottom: 70px;
+
+}
+
+#clients3 {
+    padding-bottom: 70px;
+}
+
+.carousel {
+  width:320px;
+  height:188px;
+}
 
 hr.star-light, hr.star-primary{
     margin-bottom: 0px;
