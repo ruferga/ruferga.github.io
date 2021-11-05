@@ -159,7 +159,7 @@ color:white !important;
 
 #portfolio {
     padding-top: 5px;
-    background-image: url('img/manzanas_gray.png');
+    background-image: url('img/coquita.jpg');
 }
 
 #portfolio2 {
@@ -174,22 +174,22 @@ color:white !important;
 }
 
 div#portfolio2.container-fluid.text-center{
-    background-image: url('img/manzanas_gray.png');
+    background-image: url('img/coquita.jpg');
     padding-bottom: 10px;
 }
 
 div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    background-image: url('img/manzanas_gray.png');
+    background-image: url('img/coquita.jpg');
     padding-bottom: 30px;
 }
 
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    background-image: url('img/manzanas_gray.png');
+    background-image: url('img/coquita.jpg');
     padding-bottom: 30px;
 }
 
 div#portfolio3.container-fluid.text-center{
-    background-image: url('img/manzanas_gray.png');
+    background-image: url('img/coquita.jpg');
     padding-bottom: 10px;
 
 }
