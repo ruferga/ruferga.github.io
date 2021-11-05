@@ -172,23 +172,19 @@ color:white !important;
 }
 
 div#portfolio2.container-fluid.text-center{
-    background-image: url('img/coquita.jpg');
     padding-bottom: 10px;
 }
 
 div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    background-image: url('img/coquita.jpg');
     padding-bottom: 30px;
 }
 
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    background-image: url('img/coquita.jpg');
     padding-bottom: 30px;
 }
 
 div#portfolio3.container-fluid.text-center{
     
-    background-image: url('img/coquita.jpg');
     padding-bottom: 10px;
 }
 
@@ -202,6 +198,11 @@ div#portfolio3.container-fluid.text-center{
 
 #portfolio3 a {
     color: white;
+}
+
+#clients {
+    padding-top: 5px;
+    background-image: url('img/coquita.jpg');
 }
 
 hr.star-light, hr.star-primary{
