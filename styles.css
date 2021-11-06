@@ -261,6 +261,7 @@ a.btn-social.btn-outline{
  a.btn.btn-primary{
      background-color: black;
      border: none;
+     padding: 1rem;
  }
 
  #message.form-control{
