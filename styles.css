@@ -212,11 +212,10 @@ div#portfolio3.container-fluid.text-center{
     padding: 20px;
     background-image: url('img/code.jpeg');
     color: black !important;
-
 }
 
 #clients h1 {
-        color: white;
+    color: black !important;
 }
 
 #clients2 {
