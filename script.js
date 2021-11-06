@@ -43,6 +43,13 @@ $('div.modal-content button.btn.btn-default').click(function(){
             top: 100
         }
     })
+        // Around the web
 
+$(.getElementById("linkedin")).onclick = function () {
+    $(.href = "linkedin.html");
+    };
+$(.getElementById("github")).onclick = function () {
+    $(.href = "github.html");
+    };
  
 })(jQuery); // End of use strict
