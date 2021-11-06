@@ -178,17 +178,17 @@ color:black !important;
 }
 
 div#portfolio2.container-fluid.text-center{
-    padding: 30px;
+    padding: 10px;
     color:black !important;
 }
 
 div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    padding: 30px;
+    padding: 10px;
     color:black !important;
 }
 
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
-    padding: 30px;
+    padding: 10px;
     color:black !important;
 }
 
@@ -254,7 +254,7 @@ a.btn-social.btn-outline{
 
  .profile{
      border-radius: 100%;
-     padding-top: 30px;
+     padding-top: 0px;
  }
 
  ul.navbar-nav li.page-scroll.active a.nav-link{
