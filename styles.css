@@ -163,6 +163,7 @@ color:black !important;
 
 #portfolio {
     padding-top: 5px;
+    color:black !important;
     background-image: url('img/manzanas_img.PNG');
 }
 
@@ -178,19 +179,23 @@ color:black !important;
 
 div#portfolio2.container-fluid.text-center{
     padding: 30px;
+    color:black !important;
 }
 
 div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
     padding: 30px;
+    color:black !important;
 }
 
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
     padding: 30px;
+    color:black !important;
 }
 
 div#portfolio3.container-fluid.text-center{
     
     padding: 10px;
+    color:black !important;
 }
 
 #portfolio2 div.scroll-top.page-scroll{
@@ -198,11 +203,11 @@ div#portfolio3.container-fluid.text-center{
 }
 
 #portfolio2 a {
-    color: white;
+    color: black;
 }
 
 #portfolio3 a {
-    color: white;
+    color: black;
 }
 
 #clients {
