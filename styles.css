@@ -122,8 +122,8 @@ nav.header-secondary{
 }
 
 #about p{
-    color: white;
-    font-size: 18px;
+    color: #42ab9e;
+    font-size: 14px;
     padding-top: 60px;
     font-weight: 500;
 }
@@ -248,6 +248,7 @@ hr.star-light, hr.star-primary{
 a.btn-social.btn-outline{
      color:white;
      border-color: solid white;
+     overflow: scroll;
  }
 
  .profile{
@@ -264,6 +265,7 @@ a.btn-social.btn-outline{
      background-color: black;
      border: none;
      padding: 1rem;
+     overflow: scroll;
  }
 
  #message.form-control{
