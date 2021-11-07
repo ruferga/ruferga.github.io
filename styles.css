@@ -225,6 +225,7 @@ div#portfolio3.container-fluid.text-center{
     height: 700px;
     padding: 20px;
     color: #42ab9e !important;
+    overflow: scroll;
 }
 
 #clients h1 {
