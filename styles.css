@@ -93,14 +93,14 @@ nav.header-secondary{
     background-color: black;
     width: 100%;
     height: 850px;
-    padding-top: 25px;
+    padding-top: 15px;
     overflow: scroll;
 }
 
 #about p{
     color: #42ab9e;
     font-size: 12px;
-    padding-top: 60px;
+    padding-top: 30px;
     font-weight: 500;
 }
 
