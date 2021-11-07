@@ -51,5 +51,7 @@ $(.getElementById("linkedin")).onclick = function () {
 $(.getElementById("github")).onclick = function () {
     $(.href = "github.html");
     };
+    
+$('.carousel').carousel();
  
 })(jQuery); // End of use strict
