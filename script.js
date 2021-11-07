@@ -52,6 +52,8 @@ $(.getElementById("github")).onclick = function () {
     $(.href = "github.html");
     };
     
-$('.carousel').carousel();
+$('.carousel').carousel({
+  interval: 1000
+});
  
 })(jQuery); // End of use strict
