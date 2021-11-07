@@ -26,6 +26,7 @@ body {
 .navbar {
     background-color: black;
     height: 50px;
+    overflow: scroll;
 }
 
 a.navbar-brand {
@@ -45,31 +46,6 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
     height: 100%;
-}
-
-#contact {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    height: 100%;
-}
-
-#contactForm label{
-    color: white;
-    font-size: 20px;
-}
-
-#contact h2{
-    color: #42ab9e !important;
-}
-
-#contact h1{
-    color:#42ab9e !important;
-}    
-
-#contact button{
-    background-color: black;
-    color: #42ab9e;
-    border: none;
 }
 
 footer h3{
@@ -139,7 +115,9 @@ nav.header-secondary{
 .name{
     padding: 10px;
 }
-
+#clients {
+       overflow: scroll;
+}
 #clients2 img{
     paddingp: 15px;
     width: auto;
