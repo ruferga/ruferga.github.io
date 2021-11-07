@@ -52,10 +52,10 @@ $('div.modal-content button.btn.btn-default').click(function(){$('div.portfolio-
         // Around the web
 
 $(.getElementById("linkedin")).onclick = function () {
-    $(.href = "linkedin.html");
+    $(.href = "https://www.linkedin.com/in/rubfernandez");
     };
 $(.getElementById("github")).onclick = function () {
-    $(.href = "github.html");
+    $(.href = "https://github.com/ruferga");
     };
     
 $('.carousel').carousel({
