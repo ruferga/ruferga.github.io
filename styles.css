@@ -147,7 +147,16 @@ nav.header-secondary{
     max-height:100%;
     border-radius:30%
 }
-#portfolio img{
+#portfolio2 img{
+    padding: 15px;
+    width: auto;
+    height: auto;
+    max-height:100%;
+    max-width:100%;
+    border-radius:100%    
+}
+
+#portfolio3 img{
     padding: 15px;
     width: auto;
     height: auto;
