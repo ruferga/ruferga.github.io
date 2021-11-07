@@ -141,14 +141,14 @@ nav.header-secondary{
 
 #clients2.thumbnail{
     padding-top: 0px;
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
     border-radius:30%
 }
 #portfolio.thumbnail{
     padding-top: 0px;
-    width: 100%;
-    height: 100%;
+    width: auto
+    height: auto;
     border-radius:100%    
 }
 
