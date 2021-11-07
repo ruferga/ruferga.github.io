@@ -136,7 +136,7 @@ nav.header-secondary{
 }
 
 .name{
-    padding: 20px;
+    padding: 10px;
 }
 
 .thumbnail{
@@ -144,16 +144,6 @@ nav.header-secondary{
     width: 100%;
     height: 100%;
     border-radius: 25%;
-}
-
-#contact{
-    margin-top: 30px;
-    padding: 30px;
-    background-color:black;
-    height: 800px;
-}
-#contact h1{
-    color: white;
 }
 
 #portfolio h1{
@@ -190,7 +180,6 @@ div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
 }
 
 div#portfolio3.container-fluid.text-center{
-    
     padding: 10px;
 }
 
@@ -207,6 +196,7 @@ div#portfolio3.container-fluid.text-center{
 }
 
 #clients {
+    background-color: black;
     width: 100%;
     height: 700px;
     padding: 20px;
@@ -214,16 +204,15 @@ div#portfolio3.container-fluid.text-center{
 }
 
 #clients h1 {
-    color: white !important;
+    color: black !important;
 }
 
 #clients2 {
-    padding-bottom: 70px;
-
+    padding: 70px;
 }
 
 #clients3 {
-    padding-bottom: 70px;
+    padding: 70px;
 }
 
 hr.star-light, hr.star-primary{
