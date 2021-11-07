@@ -2,6 +2,10 @@ body {
     font-size: 20px;
 }
 
+.header {
+   overflow: auto;
+}
+
 .header h1 {
     text-align: center;
     color: black !important;
@@ -99,9 +103,9 @@ nav.header-secondary{
 
 #about p{
     color: #42ab9e;
-    font-size: 12px;
-    padding-top: 30px;
-    font-weight: 500;
+    font-size: 14px;
+    padding-top: 20px;
+    font-weight: 250;
 }
 
 #about h1{
