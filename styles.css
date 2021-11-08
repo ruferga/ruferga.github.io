@@ -42,7 +42,7 @@ a.nav-link {
 }
 
 footer{
-    background-image: url('img/manzanas_img_1.png');
+    background-image: url('img/manzanas_img.png');
     padding-top: 30px;
     padding-bottom: 30px;
     height: 100%;
@@ -153,9 +153,10 @@ color:black !important;
 }
 
 #portfolio {
+    height:700px;
     padding-top: 5px;
     color:black !important;
-    background-image: url('img/manzanas_img_1.png');
+    background-image: url('img/manzanas_img.png');
 }
 
 #portfolio2 {
