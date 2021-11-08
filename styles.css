@@ -16,7 +16,9 @@ body {
     background-color: #0f0e0b;
     border-bottom: #42ab9e;
 }
-
+.header img {
+    padding: 90xp;
+}
 .skills {
     text-align: center;
     color: white;
