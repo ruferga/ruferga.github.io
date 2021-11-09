@@ -91,7 +91,7 @@ nav.header-secondary{
 #about {
     background-color: black;
     width: 100%;
-    height: 650px;
+    height: 700px;
     padding-top: 15px;
     overflow: scroll;
 }
@@ -122,7 +122,7 @@ nav.header-secondary{
     width: auto;
     height: auto;
     max-width:100%;
-    max-height:650px;
+    max-height:700px;
     border-radius:0%;
     overflow: scroll;
 }
