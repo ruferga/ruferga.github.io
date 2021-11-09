@@ -3,12 +3,12 @@ body {
 }
 .header h1 {
     text-align: center;
-    color: black !important;
+    color: #fafafa;
 }
 
 .header h2 {
     text-align: center;
-    color: #0f0e0b;
+    color: #fafafa;
 }
 
 .header-secondary {
