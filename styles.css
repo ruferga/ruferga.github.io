@@ -76,10 +76,10 @@ nav.header-secondary{
 }    
 
 #maincontent{
-    width: 1519px;
+    width: auto;
     height: 700px;
     padding: 20px;
-    background-image: url('img/portada_principal_1.png');
+    background-image: url('img/portada_principal_4.png');
 }  
 
 #maincontent h1{
