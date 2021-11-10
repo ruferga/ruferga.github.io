@@ -28,14 +28,12 @@ body {
 .navbar {
     background-color: black;
     height: 50px;
-    overflow: hidden;
 }
 
 a.navbar-brand {
     font-size: 30px !important;
     color: #42ab9e !important;
     font: 'Montserrat' !important;
-    overflow: hidden;
 }
 
 #page-top {
