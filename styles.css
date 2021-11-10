@@ -4,12 +4,13 @@ body {
 .header h1 {
     text-align: center;
     color: #fafafa;
-    font: 'Montserrat' !important;
+    font: 'Merriweather' !important;
 }
 
 .header h2 {
     text-align: center;
     color: #fafafa;
+    font: 'Merriweather' !important;
 }
 
 .header-secondary {
