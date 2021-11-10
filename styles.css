@@ -95,8 +95,7 @@ nav.header-secondary{
     height: 716px;
     padding: 20px;
     background-image: url('img/portada_principal_hq.png');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: 1519.2px 716px;
 }  
 
 #maincontent h1{
@@ -161,7 +160,6 @@ nav.header-secondary{
     max-width:100%;
     border-radius:100%;
    overflow: scroll;
-
 }
 
 #portfolio h1{
