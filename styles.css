@@ -36,10 +36,15 @@ a.navbar-brand {
     font: 'Montserrat' !important;
 }
 
+#top-page {
+    color: #42ab9e !important;
+    font: 'Montserrat' !important;
+}
+
 #questions {
     font-size: 25px !important;
     color: #fa8910 !important;
-    font: 'Tangerine' !important;
+    font: 'Montserrat' !important;
 }
 
 a.nav-link {
