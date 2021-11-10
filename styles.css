@@ -29,7 +29,6 @@ body {
     background-color: black;
     height: 50px;
     overflow: hidden;
-    display: block;
 }
 
 a.navbar-brand {
@@ -37,7 +36,6 @@ a.navbar-brand {
     color: #42ab9e !important;
     font: 'Montserrat' !important;
     overflow: hidden;
-    display: block;
 }
 
 #page-top {
