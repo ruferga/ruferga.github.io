@@ -45,9 +45,9 @@ a.navbar-brand {
 }
 
 #questions {
-    font-size: auto !important;
     color: #fa8910 !important;
     font: 'Montserrat' !important;
+    font-weight: 250;
 }
 
 a.nav-link {
@@ -107,16 +107,16 @@ nav.header-secondary{
 #about {
     background-color: black;
     width: 100%;
-    height: 720px;
+    height: 820px;
     padding-top: 15px;
     overflow: scroll;
 }
 
 #about p{
     color: #42ab9e;
-    font-size: auto;
+    font-size: 12;
     padding-top: 20px;
-    font-weight: 250;
+    font-weight: 150;
 }
 
 #about h1{
