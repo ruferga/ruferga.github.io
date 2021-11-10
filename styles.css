@@ -35,6 +35,12 @@ a.navbar-brand {
     font: 'Tangerine' !important;
 }
 
+#questions {
+    font-size: 20px !important;
+    color: #42ab9e !important;
+    font: 'Tangerine' !important;
+}
+
 a.nav-link {
     color: #42ab9e !important;
     font-size: 15px !important;
