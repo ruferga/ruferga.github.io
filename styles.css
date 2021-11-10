@@ -4,6 +4,7 @@ body {
 .header h1 {
     text-align: center;
     color: #fafafa;
+    font: 'Montserrat' !important;
 }
 
 .header h2 {
@@ -32,7 +33,7 @@ body {
 a.navbar-brand {
     font-size: 30px !important;
     color: #42ab9e !important;
-    font: 'Tangerine' !important;
+    font: 'Montserrat' !important;
 }
 
 #questions {
