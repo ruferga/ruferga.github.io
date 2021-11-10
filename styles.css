@@ -45,7 +45,7 @@ a.navbar-brand {
 }
 
 #questions {
-    font-size: 25px !important;
+    font-size: auto !important;
     color: #fa8910 !important;
     font: 'Montserrat' !important;
 }
@@ -113,7 +113,7 @@ nav.header-secondary{
 
 #about p{
     color: #42ab9e;
-    font-size: 19px;
+    font-size: auto;
     padding-top: 20px;
     font-weight: 250;
 }
