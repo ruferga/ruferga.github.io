@@ -4,15 +4,17 @@ body {
 .header h1 {
     text-align: center;
     color: #fafafa;
-    font: 'Merriweather' !important;
-}
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;}
 
 .header h2 {
     text-align: center;
     color: #fafafa;
-    font: 'Merriweather' !important;
-}
-
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    }
 .header-secondary {
     text-align: left;
     background-color: #0f0e0b;
@@ -25,7 +27,6 @@ body {
     text-align: center;
     color: white;
 }
-
 .navbar {
     background-color: black;
     height: 50px;
@@ -39,9 +40,10 @@ a.navbar-brand {
 
 #page-top {
     color: #42ab9e !important;
-    font-family: fira-sans, sans-serif;
-    font-weight: 800;
-    font-style: italic;    position: relative;}
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
 
 #questions {
     color: #fa8910 !important;
