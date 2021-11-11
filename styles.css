@@ -35,19 +35,19 @@ body {
 a.navbar-brand {
     font-size: 30px !important;
     color: #42ab9e !important;
-    font: 'Montserrat' !important;
-    position: relative;
 }
 
 #page-top {
     color: #42ab9e !important;
-    font: 'Montserrat' !important;
-}
+    font-family: fira-sans, sans-serif;
+    font-weight: 800;
+    font-style: italic;    position: relative;}
 
 #questions {
     color: #fa8910 !important;
-    font: 'Montserrat' !important;
-    font-weight: 250;
+    font-family: quicksand, sans-serif;
+    font-weight: 500;
+    font-style: normal;    font-weight: 250;
 }
 
 a.nav-link {
@@ -117,10 +117,16 @@ nav.header-secondary{
     font-size: 12;
     padding-top: 20px;
     font-weight: 150;
+    font-family: poiret-one, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #about h1{
     color: #42ab9e !important;
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 #about h4{
@@ -165,6 +171,9 @@ nav.header-secondary{
 #portfolio h2{
 text-align: center;
 color: #fa8910 !important;
+font-family: montserrat, sans-serif;
+font-weight: 900;
+font-style: italic;
 }
 
 #portfolio {
@@ -225,7 +234,10 @@ div#portfolio3.container-fluid.text-center{
 }
 
 #clients h1 {
-    color: #42ab9e !important;
+    color: #191970 !important;
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 #clients2 {
