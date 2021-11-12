@@ -58,7 +58,10 @@ a.navbar-brand {
 a.nav-link {
     color: #42ab9e !important;
     font-size: 15px !important;
-    text-align: center
+    text-align: center; 
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 footer{
