@@ -206,7 +206,10 @@ div#portfolio2.container-fluid.text-center{
 div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
     padding: 10px;
 }
-
+div#clients2.container-fluid.text-center{
+        height: 812px;
+    }
+    
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
     padding: 10px;
 }
