@@ -185,7 +185,8 @@ font-style: italic;
     padding: 20px;
     padding-top: 5px;
     color:white !important;
-    background-image: url('img/manzanas_gray_4.png');
+    background-color: black;
+    /*background-image: url('img/manzanas_gray_4.png');
     background-size: 1519.2px 730px;
 }
 
