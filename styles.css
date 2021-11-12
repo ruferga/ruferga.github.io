@@ -7,6 +7,14 @@
     font-size: 9px;
 }
 
+img.logo {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+}
+
 .header h2 {
     text-align: center;
     color: #fafafa;
