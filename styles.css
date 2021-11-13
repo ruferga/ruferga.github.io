@@ -283,9 +283,11 @@ a.btn-social.btn-outline{
  }
 
  a.btn.btn-primary{
-     background-color: #2F4F4F !important ;
+     background-color: #191970 !important ;
      border: none;
      padding: 1rem;
+     color: #fff;
+     border-color: #191970;
  }
 
  #message.form-control{
