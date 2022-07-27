@@ -188,10 +188,11 @@ nav.header-secondary{
 }
 
 #portfolio h1{
-color: white !important;
-font-family: montserrat, sans-serif;
-font-weight: 900;
-font-style: italic;
+    color: black !important;
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    background: azure;
 }
 
 #portfolio {
