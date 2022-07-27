@@ -7,7 +7,7 @@
     font-size: 9px;
 }
 
-img.logo {
+img. {
   border-radius: 4px;
   padding: 5px;
   width: auto;
@@ -201,7 +201,7 @@ font-style: italic;
     padding-top: 5px;
     color:white !important;
     background-color: black;
-    /*background-image: url('img/manzanas_gray_4.png');
+    background-image: url('img/manzanas_gray_4.png');
     background-size: 1519.2px 730px;
 }
 
@@ -307,3 +307,9 @@ a.btn-social.btn-outline{
     z-index: 0; 
 }
 
+recent_project.img { 
+    box-sizing: content-box;
+    padding: 30 10 30 10px !important;
+    width: 25%;
+    height: fit-content;
+}
