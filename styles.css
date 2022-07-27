@@ -307,7 +307,7 @@ a.btn-social.btn-outline{
     z-index: 0; 
 }
 
-recent_project.img { 
+div#recent_project.img { 
     box-sizing: content-box;
     padding: 30 10 30 10px !important;
     width: 25%;
