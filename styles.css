@@ -7,7 +7,11 @@
     font-size: 9px;
 }
 
-img. {
+.profile-pic{
+    margin-top: 25%;
+}
+
+.img{
   border-radius: 4px;
   padding: 5px;
   width: auto;
@@ -293,6 +297,7 @@ a.btn-social.btn-outline{
  }
 
  a.btn.btn-primary{
+    margin-top: 100;
      background-color: gray !important ;
      border: none;
      padding: 1rem;
