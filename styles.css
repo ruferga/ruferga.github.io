@@ -140,7 +140,7 @@ nav.header-secondary{
     padding-top: 15px;
     padding-bottom: 10px;
     overflow: scroll;
-    background-image: url('img/image-treatment-1-2000x1831.png');
+    background-image: url('img/transparency.jpg');
 
 }
 
@@ -269,8 +269,11 @@ div#portfolio3.container-fluid.text-center{
     padding: 20px;
     color: black !important;
     overflow: scroll;
-    background-image: url('img/image-treatment-2.jpg');
 }
+overlay:clients  { 
+    opacity: 0.25;
+    background-image: url('img/image-treatment-2.jpg')
+  }
 
 #clients h1 {
     color: #191970 !important;
