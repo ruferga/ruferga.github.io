@@ -140,6 +140,8 @@ nav.header-secondary{
     padding-top: 15px;
     padding-bottom: 10px;
     overflow: scroll;
+    background-image: url('img/level_curves_jpg.jpg');
+
 }
 
 #about p{
@@ -267,6 +269,7 @@ div#portfolio3.container-fluid.text-center{
     padding: 20px;
     color: black !important;
     overflow: scroll;
+    background-image: url('level_curves_jpg.jpg');
 }
 
 #clients h1 {
