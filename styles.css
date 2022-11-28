@@ -78,7 +78,7 @@ a.navbar-brand {
 
 
 a.nav-link_1 {
-    color: #ab6a42 !important;
+    color: #fb5204 !important;
     font-size: 30px !important;
     text-align: center; 
     font-family: montserrat, sans-serif;
@@ -323,6 +323,7 @@ a.btn-social.btn-outline{
 
  a.btn.btn-primary{
     margin-top: 0px;
+    margin-left: 0px;
      background-color: gray !important ;
      border: none;
      padding: 1rem;
