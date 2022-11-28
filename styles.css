@@ -76,6 +76,16 @@ a.navbar-brand {
     font-style: normal;    font-weight: 250;
 }
 
+
+a.nav-link_1 {
+    color: #ab6a42 !important;
+    font-size: 30px !important;
+    text-align: center; 
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
 a.nav-link {
     color: #42ab9e !important;
     font-size: 15px !important;
