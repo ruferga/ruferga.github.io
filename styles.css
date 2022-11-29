@@ -100,6 +100,8 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
     height: 100%;
+    background-size: 1519.2px 716px;
+
 }
 
 footer h3{
@@ -160,7 +162,7 @@ nav.header-secondary{
     padding-bottom: 10px;
     overflow: scroll;
     background-image: url('img/image-treatment-2.png');
-
+    background-size: 1519.2px 716px;
 }
 
 #about p{
@@ -237,7 +239,7 @@ nav.header-secondary{
     color:white !important;
     background-color: black;
     background-image: url('img/manzanas_gray_4.png');
-    background-size: 1519.2px 730px;
+    background-size: 1519.2px 716px;
 }
 
 #portfolio2 {
@@ -291,7 +293,9 @@ div#portfolio3.container-fluid.text-center{
 }
 overlay:clients  { 
     opacity: 0.25;
-    background-image: url('img/image-treatment-2.jpg')
+    background-image: url('img/image-treatment-2.jpg');
+    background-size: 1519.2px 716px;
+
   }
 
 #clients h1 {
