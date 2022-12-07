@@ -161,6 +161,7 @@ nav.header-secondary{
     font-family: montserrat, sans-serif;
     font-weight: 900;
     font-style: italic;
+    overflow: scroll;
 }
 
 #about {
@@ -200,7 +201,7 @@ nav.header-secondary{
     padding: 10px;
 }
 #clients {
-       overflow:scroll ;
+    overflow:scroll ;
 }
 #clients2 img{
     padding: 0px;
@@ -229,7 +230,7 @@ nav.header-secondary{
     max-height:100%;
     max-width:100%;
     border-radius:100%;
-   overflow: scroll;
+    overflow: scroll;
 }
 
 #portfolio h1{
@@ -269,7 +270,7 @@ div#portfolio2.container-fluid.text-center div.row div.col-xs-6.col-md-4{
     padding: 10px;
 }
 div#clients2.container-fluid.text-center{
-        height: 812px;
+    height: 812px;
     }
     
 div#portfolio3.container-fluid.text-center div.row div.col-xs-6.col-md-4{
@@ -329,28 +330,28 @@ hr.star-light, hr.star-primary{
 }
 
 a.btn-social.btn-outline{
-     color:white;
-     border-color: solid white;
+    color:white;
+    border-color: solid white;
  }
 
  .profile{
-     border-radius: 100%;
-     margin-top: 0px;
+    border-radius: 100%;
+    margin-top: 0px;
  }
 
  ul.navbar-nav li.page-scroll.active a.nav-link{
-     font-size:auto !important;
-     padding: 30 10 30 10px !important;
+    font-size:auto !important;
+    padding: 30 10 30 10px !important;
  }
 
  a.btn.btn-primary{
     margin-top: 0px;
     margin-left: 0px;
-     background-color: gray !important ;
-     border: none;
-     padding: 1rem;
-     color: #fff;
-     border-color: gray !important;
+    background-color: gray !important ;
+    border: none;
+    padding: 1rem;
+    color: #fff;
+    border-color: gray !important;
  }
 
  #message.form-control{
