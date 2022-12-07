@@ -154,6 +154,15 @@ nav.header-secondary{
     background-size: 1519.2px 716px;
 }  
 
+#CEO_BIO p{
+    color: #fb5204 !important;
+    font-size: 18px !important;
+    text-align: center; 
+    font-family: montserrat, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
 #about {
     background-color: black;
     width: 100%;
