@@ -78,8 +78,8 @@ a.navbar-brand {
 
 
 a.nav-link_1 {
-    color: #04fbf7 !important;
-    font-size: 15px !important;
+    color: #fb7304 !important;
+    font-size: 20px !important;
     text-align: center; 
     font-family: montserrat, sans-serif;
     font-weight: 500;
@@ -87,11 +87,11 @@ a.nav-link_1 {
 }
 
 a.nav-link {
-    color: #42ab9e !important;
-    font-size: 15px !important;
+    color: #fb7304 !important;
+    font-size: 20px !important;
     text-align: center; 
     font-family: montserrat, sans-serif;
-    font-weight: 900;
+    font-weight: 500;
     font-style: italic;
 }
 
@@ -156,10 +156,10 @@ nav.header-secondary{
 
 #CEO_BIO p{
     color: #fb5204 !important;
-    font-size: 18px !important;
+    font-size: 15px !important;
     text-align: center; 
     font-family: montserrat, sans-serif;
-    font-weight: 900;
+    font-weight: 500;
     font-style: italic;
     overflow: scroll;
 }
